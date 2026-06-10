@@ -16,6 +16,7 @@ The dataset was first cleaned and explored to understand its structure. After th
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+- Power BI
 
 ---
 
