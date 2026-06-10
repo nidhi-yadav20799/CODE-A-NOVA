@@ -85,6 +85,9 @@ Retail-Insights-Ecommerce-Sales-Analysis/
 The project helped in understanding how different business factors such as category, region, product performance, and discount levels affect sales and profit. The analysis also showed how data visualization can be used to identify trends and support business decision-making.
 
 ---
+## Dashboard Preview
+
+![Dashboard](dashboard/dashboard_screenshot.png)
 
 ## Author
 
