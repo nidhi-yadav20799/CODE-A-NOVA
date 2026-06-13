@@ -4,7 +4,8 @@ Dataset Name: Online Retail II Dataset
 
 Source: Kaggle
 
-Dataset is stored locally due to GitHub file size limitations.
+Dataset Link:
+https://www.kaggle.com/datasets/kabilan/online-retail-ii-dataset
 
-Link:
-https://www.kaggle.com/
+Note:
+The dataset is stored locally and used for analysis due to GitHub file size limitations.
